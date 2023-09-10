@@ -1,0 +1,5 @@
+src/config.json
+node_modules
+media/*.mp3
+build/config.json
+build/index.js
